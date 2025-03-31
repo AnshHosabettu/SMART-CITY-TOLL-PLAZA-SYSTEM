@@ -16,26 +16,6 @@ The **Smart City Toll Plaza System** is an automated system designed to detect a
 - OpenCV (for image processing)
 - Machine Learning techniques for plate recognition
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/SMART-CITY-TOLL-PLAZA-SYSTEM.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd SMART-CITY-TOLL-PLAZA-SYSTEM
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Usage
-Run the license plate detection script:
-```sh
-python SMART CITY TOLL PLAZA SYSTEM/CarPlateDetection.py
-```
-
 ## Project Structure
 ```
 SMART-CITY-TOLL-PLAZA-SYSTEM/
